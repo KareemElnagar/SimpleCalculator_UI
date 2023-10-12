@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingLarge">24dp</dimen>
+    <dimen name="textNormal">16sp</dimen>
+    <dimen name="textGiant">40sp</dimen>
+    <dimen name="textButton">18sp</dimen>
+    <dimen name="marginGiant">120dp</dimen>
+</resources>
